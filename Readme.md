@@ -1,4 +1,4 @@
-## Englist
+## English
 Filet is a Filecoin mining power tokenization protocol that deployed on the Filecoin, BSC, HECO and Mixin network. It tokenizes Filecoin mining power and introduces it into the DeFi ecosystem to provide FIL holders with risk-free and high-growth FIL staking services, and the annualized FIL return is about 30%. 
 
 ### Filet Contract Address(Please be aware of any scamers. )
